@@ -1,0 +1,31 @@
+header {
+    width: 100%;
+    height: 56px;
+    background: rgb(42,45,50);
+}
+
+.input-group {
+    border: 2px solid rgb(24, 26, 29);
+}
+
+.form-control {
+    background: rgb(53, 56, 60);
+    border: 0;
+    border-radius: 0;
+}
+
+.btn {
+    border-radius: 0;
+    border: 0;
+    background : rgb(53, 56, 60);
+}
+
+.glyphicon-search:before {
+    color: rgb(255,255,255);
+}
+
+div.search {
+    width: 240px;
+    margin: 9px 0 9px 100px;
+    padding: 0;
+}
